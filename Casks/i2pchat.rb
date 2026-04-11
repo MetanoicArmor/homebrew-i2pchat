@@ -1,6 +1,6 @@
 cask "i2pchat" do
-  version "1.2.6"
-  sha256 "efea76282bbca2add5e54adcc2f852c90ea29f77ebc52ba8eb91d102398e8837"
+  version "1.3.0"
+  sha256 "166094273128ac215f31ec24aa4f8775e14b6c83c11a65aa5cd2e4122dee62ff"
 
   url "https://github.com/MetanoicArmor/I2PChat/releases/download/v#{version}/I2PChat-macOS-arm64-v#{version}.zip"
   name "I2PChat"
